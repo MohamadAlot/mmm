@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 3px;
+  margin: 150px auto;
+  padding: 20px 50px;
+  background-color: white;
+}
+
+html {
+  background-color: antiquewhite;
+}
